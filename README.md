@@ -1,17 +1,13 @@
-![](https://komarev.com/ghpvc/?username=MainOx480854119)
-### Hi there 👋
+![mainox480854119](https://komarev.com/ghpvc/?username=mainox480854119&label=Profile%20views&color=0e75b6&style=flat)
 
-<!--
-**MainOx480854119/MainOx480854119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### TEST:
 
-Here are some ideas to get you started:
+[![mainox0515](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/mainox0515)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 言語とツール:
+
+[ ![bootstrap](https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg) ](https://getbootstrap.com)[ ![canvasjs](https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg) ](https://canvasjs.com) [ ![chartjs](https://www.chartjs.org/media/logo-title.svg) ](https://www.chartjs.org) [ ![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original -wordmark.svg) ](https: //www.w3schools.com/css/) [ ![エレクトロン](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg) ](https://www.electronjs.org)[ ![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express -original-wordmark.svg) ](https://expressjs.com) [ ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/) [ ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/) [ ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/ javascript/javascript-original.svg) ](https:// developer.mozilla.org/en-US/docs/Web/JavaScript) [ ![nextjs](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) ](https://nextjs.org/) [ ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs- original-wordmark.svg) ](https://nodejs.org) [ ![パグ](https://cdn.worldvectorlogo.com/logos/pug.svg) ](https://pugjs.org) [ ![操り人形師](https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg) ](https: //github.com/puppeteer/puppeteer) [ ![python](https ://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ](https://www.python.org) [ ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original- wordmark.svg) ](https://reactjs.org/) [ ![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg) ](https://www.sqlite.org/) < a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> ![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript /typescript-original.svg)target="_blank" rel="noreferrer"> ![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)  
+
+target="_blank" rel="noreferrer"> ![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)  
+
+![mainox480854119](https://github-readme-stats.vercel.app/api?username=mainox480854119&show_icons=true&locale=en)
