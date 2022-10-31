@@ -2,13 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=mainox480854119&label=Profile%20views&color=0e75b6&style=flat" alt="mainox480854119" />
 </p>
 
-<h3 align="left">私とつながる:</h3>
-<p align="left">
-  <a href="https://twitter.com/mainox0515" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mainox0515" 高さ="30" 幅="40" />
-  </a>
-</p>
-
 <h3 align="left">言語とツール:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -65,5 +58,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mainox480854119&show_icons=true&locale=en" alt="mainox480854119" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MainOx480854119&theme=github_dark" alt="most commit language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MainOx480854119&theme=github_dark" alt="stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MainOx480854119&theme=github_dark" alt="profile-details" />
 </p>
